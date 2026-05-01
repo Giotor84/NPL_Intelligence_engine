@@ -1,4 +1,4 @@
-# 🏛️ NPL Intelligence Engine (Acquisition Teaser)
+# 🏛️ NPL Intelligence Engine (Acquisition Teaser) ITALIAN LAW
 **Proprietary Compound AI System for Non-Performing Loans (NPL) Due Diligence.**
 
 *Notice: This repository serves as a public technical teaser for M&A / IP Sale purposes. The proprietary source code, LLM orchestration logic, and Kùzu Graph DB schemas are kept in a secure, private environment and will be shared via Data Room only after an NDA is signed.*
